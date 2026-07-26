@@ -47,7 +47,7 @@ docstring-parser==0.16
     # via agno
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.44
+gitpython==3.1.54
     # via
     #   agno
     #   streamlit
@@ -114,7 +114,7 @@ pandas==2.2.3
     # via streamlit
 pathlib==1.0.1
     # via -r cookbook/examples/apps/tic_tac_toe/requirements.in
-pillow==11.1.0
+pillow==12.3.0
     # via
     #   -r cookbook/examples/apps/tic_tac_toe/requirements.in
     #   streamlit
@@ -126,7 +126,7 @@ protobuf==5.29.3
     # via streamlit
 pyarrow==19.0.1
     # via streamlit
-pyasn1==0.6.1
+pyasn1==0.6.4
     # via
     #   pyasn1-modules
     #   rsa
@@ -186,7 +186,7 @@ rpds-py==0.23.1
     #   referencing
 rsa==4.9
     # via google-auth
-setuptools==75.8.0
+setuptools==83.0.0
     # via pip-tools
 shellingham==1.5.4
     # via typer
@@ -208,7 +208,7 @@ toml==0.10.2
     # via streamlit
 tomli==2.2.1
     # via agno
-tornado==6.4.2
+tornado==6.5.7
     # via streamlit
 tqdm==4.67.1
     # via openai
